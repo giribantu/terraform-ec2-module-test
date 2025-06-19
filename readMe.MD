@@ -1,5 +1,5 @@
 #AWS ec2 instance
-you can use ec2 instance in joindeovps by module
+* you can use ec2 instance in joindeovps by module
 
 #inputs
 * ami_id (oprional) - AMI ID that needs to be used by instace default is ami-09c813fb71547fc4f
